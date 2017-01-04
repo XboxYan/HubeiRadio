@@ -1,0 +1,20 @@
+{
+  "name": "HubeiRadio",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.3.2",
+    "react-native": "0.37.0",
+    "react-native-banner": "^0.1.0",
+    "react-native-idle": "^1.0.0",
+    "react-native-media-kit": "0.0.14",
+    "react-native-orientation": "^1.17.0",
+    "react-native-slider": "^0.9.1",
+    "react-native-splash-screen": "^1.0.9",
+    "react-native-storage": "^0.1.4",
+    "react-native-vector-icons": "^3.0.0"
+  }
+}
